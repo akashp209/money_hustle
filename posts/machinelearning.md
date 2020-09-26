@@ -106,6 +106,58 @@ For our next model, we used data from 2010 through 2016 as our training set and 
 
 Sadly with this model, the AUC score dropped significantly to 0.44 with the same Random Forest Classifier.
 
+## Random Forest: Test AUC 0.440
+
+![oaf](https://miro.medium.com/max/1400/0*yEJkjyR0rfwmIMW0)
+![da](https://miro.medium.com/max/1400/0*xcONkYgqexrfanNn)
+
+## Rethinking Label Distribution
+
+![d](https://miro.medium.com/max/1400/0*JIR6M-qNMvEnqZYZ)
+
+As you can see in our sample dataset here, all of these rows have very similar 20-MAs, open, and closes. If 20 days after 1/4/2019 has a > 3% increase, then the days around 1/4/2019 will also have a > 3% increase, and that being true for any stock, the determining factor in the label going up in 20 days is generally not decided on the 20th day. It is determined in the days the records have overlapping periods in their 20 future trading periods. In this case, if we extract 1/6/2019 out and as the test set and train on the rest of it, the model will for sure assign the test data a label of one because all of its features are similar to the dates around it which form a cluster. The other issue with this approach is that, as stated earlier, the model is allowing the training set to use future data to predict. For example, the training set included 1/7/2019 -1/11/2019, to predict 1/6/2019, which is impossible to do in the real world.
+
+![dw](https://miro.medium.com/max/1400/0*WJcudnncY71mkvIM)
+
+And that becomes a problem when we are not shuffling the original dataset and when we use later dates as the test set. In this case, the closing prices in the training set hover around 20 dollars per share, but since we are using 2019 as the test set, the prices are dramatically different, thus, the model would perform poorly in assigning them the correct labels, especially considering the features of our records having a range of values that is not present in the training set.
+
+![d](https://miro.medium.com/max/1400/0*YosijWrdK_jvzsOB)
+
+The solution we came up with was to change our label to a daily stock price movement. If the next day’s closing price is greater than the current day’s closing price, then the label is 1. Here, whether a day’s stock price goes up the next day is independent of one another, which resolved our problem of forming clusters and peeking future data.
+
+## Experiment 2 (next day price increase/decrease as label)
+
+## 1. TPOT
+
+![dwe](https://miro.medium.com/max/1400/0*_9rlrYGYo1-NBBgw)
+
+**References:**
+
+[https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9 !](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9)
+[https://epistasislab.github.io/tpot/using/ !](https://epistasislab.github.io/tpot/using/)
+
+TPOT is an open-source AutoML python package and runs through many different combinations of feature engineering and model selection. TPOT automatically creates many pipelines that include different ways of feature engineering (PCA, MaxAbsScaler, MinMaxScaler, etc) as well as different models with various mixtures of hyperparamete
+
+The performance of TPOT heavily depends on the number of pipelines and the time you allow it to run. The total number of pipelines is equal to POPULATION_SIZE + GENERATIONS x OFFSPRING_SIZE, which can be determined in TPOT’s parameters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
