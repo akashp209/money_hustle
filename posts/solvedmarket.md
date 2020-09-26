@@ -36,5 +36,51 @@ The fund took off when equities were introduced into the mix. Initially, the foc
 
 ## Execution
 
+_**“We understand risk, cost, impact and market structure well enough to leverage the hell out of it” — senior Renaissance staffer**_
 
+With systems that are based on the repeated exploitation of very slight edges, the costs of trading are critical. Renaissance was very good at estimating the costs that would be incurred on a trade before placing it. This allowed them to make informed decisions on whether a slight market anomaly could be profitably exploited. Understanding the market liquidity constraints for the asset enabled calculation of the maximum size that could be traded without adversely impacting the trade. A confident prediction, predictable costs and high liquidity would enable Renaissance to maximise its size and leverage to profit from the opportunity.
 
+## Volatility and Drawdown
+
+![volatility](https://miro.medium.com/max/668/1*6wyLpHTF5fWSRms60K0E2A.png)
+###### Figure 2: The impact of the number of assets on portfolio drawdown. [ A synthetic geometric Brownian motion for an asset. When run 1K times in a Monte Carlo simulation, 95% of drawdowns are -19% or less. With 100 assets, the drawdown metric is reduced to -2%. With 10K assets, 95% of drawdowns are -0.1% or less . Free lunches available here.
+
+Diversifying into equities was a big break for Renaissance and allowed the fund to scale to its current cap of $10 billion. One key aspect of equities is the number of assets available. Zuckerman mentions that Renaissance may have 4,000 long and 4,000 short positions in equities at any one time [2]. Taking medium-term trades on such a massive number of assets has a profound effect on portfolio risk and drawdown. Figure 2 uses synthetic data to illustrates the dramatic impact of trading a large number of uncorrelated assets on portfolio volatility. Expansive diversification and a proven track record of accurate execution provided Renaissance with access to significant leverage from partners such as Deutsche Bank and Barclays.
+
+## Access to Leverage
+
+![leverage](https://miro.medium.com/max/1280/1*6p8_i3LpIkpd5BLg9N4xGA.png)
+######Figure 3: a synthetic example of the effect of leverage and compounding returns — on a Log scale. (a) 30 years with an average daily return of 0.015% and no leverage (b) trading with assets valued at 5x the trading funds © with access to 10x leverage. Zuckerman estimates the average leverage available to Medallion was 12.5x.
+
+Long-Term Capital Management (LTCM) is the textbook case of very clever people not being quite clever enough to understand risk. LTCM initially realised outstanding returns by using up to 25x leverage in their fund. However, a lack of understanding of the risks involved led to its calamitous demise. Renaissance, on the other hand, has demonstrated a degree of suspicion in their models and a deep appreciation of risk. They have architected a solution to utilise leverage whilst managing the risk.
+
+The unleveraged returns of Medallion are underwhelming. The funds raison d’etre is supporting leverage and it is the leveraged performance which is legendary.
+
+Figure 3 illustrates a synthetic example of a system returning 0.015% per day annualised for 30 years. With no leverage, the compound annual return is a modest 4%. However, the same system with access to 12.5x leverage generates a compound annual return of 60% . This is not about creating systems that maximise returns. This is about creating systems that maximise access to leverage whilst controlling risk.
+
+_If there ever was a magic bullet, this is it._
+![bullet](https://miro.medium.com/max/1200/1*zAvS7BNCJ9wsAwfBTSU_Sg.jpeg)
+
+## The Big Secret
+
+The Big Secret is that there is no Big Secret.
+
+Medallion’s spectacular success is not down to one well-kept secret. The success is down to doing everything right. Zuckerman recons there are 20–25 aspects of Medallion’s operation at which they excel. Taken in their entirety, all these nuanced competencies add up to deliver a truly outstanding operation.
+
+In summary, some of the key aspects that propel Medallion are:-
+
+* **Data:** Renaissance has a huge amount of quality data on everything that could remotely influence price movements. They were one of the first to start curating data archives and are the most experienced at using them.
+
+* **Machine Learning :** Renaissance applied their statistical learning algorithms very early on to identify predictive data and statistically significant repeating patterns in the market. Their early adoption of machine learning in the equities market has been key.
+
+* **Diversification:** Medallion reputedly trades 8,000 assets long/short with a typical trade lasting about 2 days. Applying a medium-term market neutral approach to such a large asset base massively reduces volatility and drawdowns.
+
+* **Liquidity Constraints:** Each asset is traded within its available liquidity constraints to enable Medallion to enter and exit the market without undue impact or risk.
+
+* **Stealth:** Positions are entered and exited in ways that disguise their activity from the market.
+
+* **Accurate Costings:** When the predictive edge is slight, having an accurate estimate of the costs improves the identification of opportunities that can be profitably traded.
+
+* **Dynamic Sizing:** Leverage up when opportunities abound. Reduce exposure when performance plummets . All models are wrong — but some can be useful.
+
+* **Leverage :** All the above best practices underpin access to significant leverage. Zuckerman estimates Medallion trades with 12.5x leverage on average — with up to 20x leverage accessible when the system is confident in the opportunities. The historical unleveraged returns from Medallion are similar to the S&P 500 Index. The leveraged performance, however, is legendary.
