@@ -84,7 +84,8 @@ _“Buffett believes that exceptional returns come from concentrated portfolios,
 
 Buffett explains his philosophy in the following clip from the Becoming Warren Buffett documentary:
 
-[![watch haha](https://img.youtube.com/vi/9ANXwkBP9Qo/maxresdefault.jpg)]("https://youtu.be/9ANXwkBP9Qo")
+[![watch haha](https://img.youtube.com/vi/9ANXwkBP9Qo/maxresdefault.jpg)](https://youtu.be/9ANXwkBP9Qo)
+
 
 In short, Buffett says:
 
