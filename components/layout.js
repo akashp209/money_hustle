@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="The Best Lessions that i learned, i'm going to share with you"
+          content="In This Page I Post The Life,Love,Wealth,Health Lessions That I Learned From Super Successful Persons In The World. I Hope You Will Also Get Benifits And Inspired 🔥🔥"
         />
         <meta
           property="og:image"
