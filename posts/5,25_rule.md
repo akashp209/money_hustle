@@ -3,6 +3,7 @@ title: 'Warren Buffett’s 5/25 Rule Will Help You Focus On The Things That Matt
 date: '2020-02-13'
 ---
 
+![image of warren](https://miro.medium.com/max/1910/1*3fyAAmTylKZArF0d1Ohw7w.jpeg)
 Warren Buffett is the most successful investor in the world.
 
 Not only has he posted record high returns, Buffet has also managed this over a time period of over 60 years.
