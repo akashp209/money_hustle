@@ -82,10 +82,7 @@ William Thorndike gives us the answer to this question in his book, The Outsider
 
 _“Buffett believes that exceptional returns come from concentrated portfolios, that excellent investment ideas are rare, and he has repeatedly told students that their investing results would improve if at the beginning of their careers, they were handed a twenty-hole punch card representing the total number of investments they could make in their investing lifetimes. As he summarized in the 1993 annual report, ‘We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an investor thinks about a business and the comfort level he must feel with its economic characteristics before buying into it.”_
 
-Buffett explains his philosophy in the following clip from the Becoming Warren Buffett documentary:
 
-[![watch haha](https://img.youtube.com/vi/9ANXwkBP9Qo/maxresdefault.jpg)](https://youtu.be/9ANXwkBP9Qo)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 In short, Buffett says:
 
@@ -134,4 +131,66 @@ And these aren’t random strategies… They are all derived from a critical men
 ### So, now the question is: how do you actually consistently and masterfully apply the 80/20 Rule to your life.
 
 While Buffett’s 3-step process is extremely helpful on a theoretical level, I’ve also found it lacking on a practical level. It misses a lot of the nuance that can derail the plans of us mere mortals.
+
+For example, simple putting something on an “avoid-at-all-cost” list is not enough. It takes work and skill to avoid these tasks in my experience. In addition, prioritization takes time, which means you need to make it a new habit, and creating consistent habits take hard work and skill.
+
+So, here is the adapted 13-step process I use so you can prioritize your schedule with the 80/20 Rule:
+
+1. **Determine your true values.** When you prioritize without having clear values, your goals often end up feeling empty. Without your own north star, the goals you set are often the result of the values of the cultures you have previously been in. Therefore, your goals aren’t truly your goals. I first learned about value setting in Value-Focused Thinking: A Path to Creative Decision-making.
+
+2. **Determine your true goals.** Without setting clear goals, your daily priorities become overwhelmed with urgent tasks that have a short-term payoff that make you feel good. Having clear values-based goals keep you focused on what matters short-term and long-term
+
+3. **Set aside time for prioritization.** I recommend setting aside the following blocks in your calendar as a bare minimum: 15 minutes daily, 1 hour weekly, 3 hours quarterly, 1 day yearly.
+
+4. **Make a list of everything you have to do.** Getting it out of your head and onto paper is cathartic, and it gives you the fodder for the rest of the steps. I learned the power of this step from David Allen’s Getting Things Done.
+
+5. **Circle the top 20% of priorities that will give 80% of the results.** This is where you separate the wheat from the chaff. It’s where you rise above information overwhelm and get perspective on what really matters and can move the needle.
+
+6. **Practice the 80/20 Rule like you would any other skill.** Applying the 80/20 Rule doesn’t just mean asking yourself, “What’s most important?” and then moving on. Prioritization is a skill. By learning and then using different mental models such as the bottleneck analysis, ICE method, or the critical path approach, you get different ways of seeing your priorities. Every time you set your priorities is an opportunity to practice becoming better at prioritization.
+
+7. **Identify the single most important priority**. The 80/20 Rule is fractal. Meaning that within each 80/20 there is another 80/20. So, if you narrow down a list of 25 priorities to five priorities, you can then apply the 80/20 Rule again to focus on the one priority that gives you 80% of the results of the five priorities. I learned the power of narrowing down priorities another level via The One Thing.
+
+8. **Do your “one thing” first.** When our day starts, we have the most energy and the least distractions. This makes it the perfect time to tackle the hardest, most important activity. If you leave your one thing for later in the day, it will probably not get done on that day. I learned about managing my days based on my energy levels in The Power Of Full Engagement.
+
+9. **Collect and measure metrics primarily on your “one thing.”** The mind loves metrics, especially public metrics. This is why social media platforms can so effectively train us to maximize our followers, likes, and comments. When these vanity metrics increase, we feel like we’re making progress and doing important work. But, at the end of the day, if you run a business, what matters more is tracking profit first. If you run a non-profit, what matters more is improving the world. If you are trying to reduce loneliness, what matters more is how many high quality interactions you have with close friends. My business changed overnight when I took the time to identify the few metrics that really mattered and then focused religiously on them. Once you do this, your mind automatically and subconsciously thinks about maximizing these important metrics rather than vanity ones.
+
+
+
+
+
+
+
+10. **Put everything else on your** “avoid-at-all-cost” list. Just as Buffett suggests you do.
+
+11. **Create a pre-mortem for your “avoid-at-all-cost” list.** Here’s the key… the reality is that it takes a ton of energy and discipline not to do certain items on your “avoid-at-all-cost” list. If you are not deliberate, you will likely fall into old habits. To make sure this doesn’t happen, I recommend doing a pre-mortem. With a pre-mortem, you envision your day and ask yourself, “Let’s assume I fall into old habits and get distracted. What was the cause?” By being aware of potential distractions before they happen, we drastically increase the odds of avoiding them.
+
+12. **Practice saying no.** Similar to how applying the 80/20 Rule is a skill, so too is saying no. The skill is recognizing areas where we should say no, but don’t and then devising a solution for each situation that actually works.
+
+13. **Get both accountability and coaching.** In my experience, I often resist the things that are most important, because they require me to confront my fears and self-sabotaging beliefs. Therefore, I always operate more effectively when I share my priorities with others every day and every week, and when a coach forces me to be brutally honest with myself and gives expert feedback. Accountability helps me put my foot on the accelerator. Coaching helps me remove my other foot from the brake.
+
+Each of these steps is absolutely critical. Miss one of them and your ability to pick and follow through on the right priorities plummets.
+
+We all have 24 hours in a day. Therefore, “hustling” harder can only get us so far.
+
+**Focus is one of the 20% of skills that give us 80% of results in our life.** It allows us to accomplish in one year what might take someone else a decade. Furthermore, by focusing on the few things that matter at work, we get back time in our personal life to be healthy and spend time with loved ones.
+
+But remember this: To get the full benefits of focus, we need to look at it as difficult skill that takes years of practice to develop. Focusing sounds simple, but it requires huge emotional and cognitive resources to follow through on consistently. This is why everyone touts the power of focus, but few people actually truly focus.
+
+Warren Buffett’s strategies inspire us all to be one of the few who do.
+
+### Interested In Getting Support To Apply Buffett’s Time Management Strategy To Your Life?
+
+I recently created a Facebook group to help you prioritize what’s most important and consistently follow through everyday. In the group, you get:
+
+* Some of our best productivity hacks
+* The most up-to-date research on productivity
+* Accountability and support from the community
+* Help creating and keeping difficult habits
+
+
+
+
+
+
+
 
