@@ -88,4 +88,4 @@ In summary, some of the key aspects that propel Medallion are:-
 ## References
 
 1. **The Man Who Solved the Market** Gregory Zuckerman, ISBN: 9780241422151
-2. Chat with traders podcast, ![183: Jim Simons — the pinnacle of trading greatness w/ Gregory Zuckerman](https://chatwithtraders.com/ep-183-gregory-zuckerman/)
+2. Chat with traders podcast, [183: Jim Simons — the pinnacle of trading greatness w/ Gregory Zuckerman!](https://chatwithtraders.com/ep-183-gregory-zuckerman/)
