@@ -28,7 +28,7 @@ A game of soccer with your family, a picnic in the backyard with your daughter, 
 
 As Kurt Vonnegut said:
 
-> _# “Enjoy the little things in life because one day you`ll look back and realize they were the big things.”_
+ > # “Enjoy the little things in life because one day you`ll look back and realize they were the big things.” 
 
 Of course, no moment will matter if you’re not mentally there. The most important thing you can do is be present because when you’re there you don’t miss a thing.
 
