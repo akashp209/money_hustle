@@ -8,7 +8,10 @@ import Date from '../components/date'
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
-      <Head>…</Head>
+            <Head>
+        <title>bluebenzene</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <section className={utilStyles.headingMd}>The Ultimate Money Hustle</section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Read Carefully To Grow Your Money💰</h2>
