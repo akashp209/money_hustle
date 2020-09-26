@@ -84,8 +84,53 @@ _“Buffett believes that exceptional returns come from concentrated portfolios,
 
 Buffett explains his philosophy in the following clip from the Becoming Warren Buffett documentary:
 
-![watch haha](<"https://www.youtube.com/embed/9ANXwkBP9Qo")
+![watch haha]("https://www.youtube.com/embed/9ANXwkBP9Qo")
 
 In short, Buffett says:
 
 > **“The trick in investing is just to sit there and watch pitch after pitch go by and wait for the one right in your sweet spot. If people are yelling, ‘Swing, you bum,’ ignore them.”**
+
+**Buffett Strategy #5: Focus on long-term bets**
+
+Buffett holds his bets for extraordinarily long periods.
+
+According to investor William Thorndike, author of The Outsiders…
+
+> “He has held his current top five stock options for over twenty years on average. This compares with an average holding period of less than one year for the typical mutual fund. This translates into an exceptionally low level of investment activity, characterized by Buffett as “inactivity bordering on sloth.”
+
+(I wrote more about how Buffett focuses on a few big bets in this article.)
+
+Buffett applies a similar concept to investing in knowledge that will pay him back forever. In the only authorized biography of Buffett, his biographer comments on what she learned from him:
+
+> “The things you do learn and invest in should be knowledge that is cumulative, so that the knowledge builds on itself. So instead of learning something that might become obsolete tomorrow, like some particular type of software [that no one even uses two years later], choose things that will make you smarter in 10 or 20 years. That lesson is something I use all the time now.”
+
+(I wrote more about how knowledge compounds in Why Successful People Spend 10 Hours A Week On “Compound Time”)
+
+Buffett is not alone in thinking long-term.
+
+Sam Altman, the president of Y Combinator, the largest accelerator in the world, refers to long-term thinking as “one of the few arbitrage opportunities left in the market.” Jeff Bezos measures the success of new programs over seven-year time frames, while most other public companies think in three-month increments. (I go deeper into Bezos’ long-term thinking philosophy in this article.)
+
+**Buffett Strategy #6: Avoid the technology bandwagon**
+
+One would think that the greatest investor of all time (the GOAT if you will) stays on top of the latest technologies in order to stay up-to-date.
+
+Interestingly, the opposite is true. Here are few examples:
+
+ * He has never had a computer at his office
+ * He has never used a stock ticker
+ * He does NOT have a smartphone
+These unique choices show a few things about Buffett:
+ * Buffett is very clear on what data he needs to know in order to make an investment. 
+ * He is confident enough in his thinking that he is willing to NOT do what is popular .
+ * He proactively removes potential distractions from his environment rather than depending on willpower.
+ 
+## Here’s How To Apply Buffett’s Core Mental Model
+
+Now, you understand. Warren Buffett’s free time to read and think isn’t just a fluke. He’s designed his life for it.
+
+And these aren’t random strategies… They are all derived from a critical mental model — the 80/20 Rule — the fact that 20% of efforts cause 80% of the results across many areas of our life. In each domain of his life — relationships, investments, technologies, priorities — Buffett is a master at ruthlessly prioritizing the few things that matter and cutting out everything else.
+
+### So, now the question is: how do you actually consistently and masterfully apply the 80/20 Rule to your life.
+
+While Buffett’s 3-step process is extremely helpful on a theoretical level, I’ve also found it lacking on a practical level. It misses a lot of the nuance that can derail the plans of us mere mortals.
+
