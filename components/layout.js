@@ -3,8 +3,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Blue Benzene'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'bluebenzene'
+export const siteTitle = 'bluebenzene'
 
 export default function Layout({ children, home }) {
   return (
@@ -13,14 +13,15 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="The Best Lessions that i learned, i'm going to share with you"
         />
         <meta
           property="og:image"
-          content={`https://og-image.now.sh/${encodeURI(
+          content={`https://og-image.now.sh/**blue**%20benzene/${encodeURI(
             siteTitle
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+          )}.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg`}
         />
+        
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
