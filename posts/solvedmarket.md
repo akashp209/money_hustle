@@ -84,3 +84,8 @@ In summary, some of the key aspects that propel Medallion are:-
 * **Dynamic Sizing:** Leverage up when opportunities abound. Reduce exposure when performance plummets . All models are wrong — but some can be useful.
 
 * **Leverage :** All the above best practices underpin access to significant leverage. Zuckerman estimates Medallion trades with 12.5x leverage on average — with up to 20x leverage accessible when the system is confident in the opportunities. The historical unleveraged returns from Medallion are similar to the S&P 500 Index. The leveraged performance, however, is legendary.
+
+## References
+
+1. **The Man Who Solved the Market** Gregory Zuckerman, ISBN: 9780241422151
+2. Chat with traders podcast, ![183: Jim Simons — the pinnacle of trading greatness w/ Gregory Zuckerman](https://chatwithtraders.com/ep-183-gregory-zuckerman/)
