@@ -133,14 +133,67 @@ The solution we came up with was to change our label to a daily stock price move
 
 **References:**
 
-[https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9 !](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9)
-[https://epistasislab.github.io/tpot/using/ !](https://epistasislab.github.io/tpot/using/)
+[https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9 ](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9)
+[https://epistasislab.github.io/tpot/using/ ](https://epistasislab.github.io/tpot/using/)
 
 TPOT is an open-source AutoML python package and runs through many different combinations of feature engineering and model selection. TPOT automatically creates many pipelines that include different ways of feature engineering (PCA, MaxAbsScaler, MinMaxScaler, etc) as well as different models with various mixtures of hyperparamete
 
 The performance of TPOT heavily depends on the number of pipelines and the time you allow it to run. The total number of pipelines is equal to POPULATION_SIZE + GENERATIONS x OFFSPRING_SIZE, which can be determined in TPOT’s parameters.
 
+![dw](https://miro.medium.com/max/1400/0*NH4_qFEwhxyn6rQZ)
+![ded](https://miro.medium.com/max/1400/0*uov0DJGWXSyGp8PF)
 
+Since we only let TPOT ran 150 pipelines, which only took less than 15 minutes, the performance is not ideal: TEST AUC 0.509. However, with enough time (tens of hours or even days), TPOT can be a very powerful and easy tool to generate great results.
+
+Additionally, TPOT automatically stores the best pipeline it searched through and allows users to export those results as a .py file. As you can see, in our case, TPOT performed PCA on our data and selected GaussianNB as the best classification model.
+
+![ew](https://miro.medium.com/max/1400/0*fFsGOJwtD3yvD3Zv)
+
+## 2. XGBoost
+
+Using an XGBClassifier, we did not have to configure much other than the learning rate, max depth, n_estimators, and subsample. Using cross-validation and a scoring metric of AUC, we optimized the hyperparameters. Finally, we used the optimized hyperparameters to make a final model on an X_train and y_train. The accuracy (not AUC) on the test set was 50.5%
+
+![dwv](https://miro.medium.com/max/1400/0*FQMC0gvK66m6tFBR)
+With XGBClassifier, we obtain a 0.478 Test Set AUC Score
+
+![fwef](https://miro.medium.com/max/1400/0*eHpnKqkfSwCUwncN)
+
+## 3. Random Forest
+
+Using a random forest classifier, we tuned hyperparameters across a range of values using the brute force Grid Search Cross-Validation. The best parameters are shown with max_depth = 3 and min_samples_leaf = 3.
+
+![csd](https://miro.medium.com/max/1400/0*ZONcFpdh_WPrJPYK)
+![ecsf](https://miro.medium.com/max/1400/0*C_lpji1pn1K2ZU4P)
+![cscsd](https://miro.medium.com/max/1400/0*xQ4Ga87R4jakHb2K)
+
+With this Random Forest Classifier, we obtain a 0.519 Test Set AUC Score
+
+![fwe](https://miro.medium.com/max/1400/0*PZCn39_9o3SZabTC)
+
+## 4. Google AutoML
+
+With the increasing popularity of AutoML, we decided to input our dataset to Google Cloud AutoML to see if it can predict a better AUC score than us. Google AutoML has a very user-friendly interface that automatically spits out some statistics after you upload your dataset.
+
+![fw](https://miro.medium.com/max/1400/0*PQsM8FD19h4jx_mc)
+
+In a classification projects like ours, Google AutoML allows users to select different performance metrics to optimize the final model.
+
+![fsf](https://miro.medium.com/max/1400/0*dvOq6HG1WTSFzY2s)
+
+So how did Google AutoML did? After just one hour of training, it returned an AUC of 0.529, by far the highest in our process. It is important to note that the AUC with random forest reaches 0.519 which is only 0.01 lower than the Google AutoML.
+
+![cfwe](https://miro.medium.com/max/1400/0*lZ8IrGw-NSpia4Xu)
+
+# Conclusion and Insights
+The weakness of technical analysis: In the world of finance, technical analysis (using historical stock prices to predict future stock prices) has been proven to be futile. Additional features could be considered in further analysis:
+
+1. Tweets Scrapping: sentiment analysis on tweets
+2. Earnings Call Transcripts: analyze tones of executives during earnings calls; evaluate topics the executives/analysts are discussing
+3. Satellite data (satellite images on oil wells can potentially be used to predict oil prices)
+
+The only true way to beat the stock market is to have additional information, such as having access to future data or knowing quarterly earnings results ahead of time, leading to impossibility or illegality. Using the technical indicators can tell you part of the story, but predicting next day stock direction is too random and influenced by outside factors to create a strong model.
+
+> # Key Takeaway: Machine learning projects are only useful and effective if the data used to train the model and the data the model encounters in the future come from the same distribution, which is not the case when using independent and volatile stock market daily returns as the label.
 
 
 
