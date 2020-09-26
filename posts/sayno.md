@@ -34,9 +34,9 @@ What’s important to see here is that these decisions don’t happen by acciden
 
 We get insight into how Buffett deals with distractions and obligations via his personal pilot, Michael Flint. Buffett once walked Flint through his three-step strategy for prioritization [1], and I invite you to try it right now in order to truly get the message:
 
-1.**First, Buffett had Flint write down his top 25 goals on a piece of paper. Go ahead and write your goals down now.**
-2.**Next, he had him circle the top 5. So far, nothing special.**
-3.**Finally, he had Flint take the 20 goals he did NOT circle and put them on an “avoid-at-all-cost” list. This is the step where you see Buffett’s true prioritization genius. At this point, most people would simply just focus on the top 5 goals and intermittently work on the rest of the goals. Not Buffett though. He advised Flint: “No matter what, these things get no attention from you until you’ve succeeded with your top 5.”**
+1. **First, Buffett had Flint write down his top 25 goals on a piece of paper. Go ahead and write your goals down now.**
+2. **Next, he had him circle the top 5. So far, nothing special.**
+3. **Finally, he had Flint take the 20 goals he did NOT circle and put them on an “avoid-at-all-cost” list. This is the step where you see Buffett’s true prioritization genius. At this point, most people would simply just focus on the top 5 goals and intermittently work on the rest of the goals. Not Buffett though. He advised Flint: “No matter what, these things get no attention from you until you’ve succeeded with your top 5.”**
 
 Buffett’s strategy gets at a few fundamental truths:
 *20% of our priorities typically account for 80% of our results. Buffett’s top five priorities are 20% of 25. For more on the 80/20 Rule, read my article: This Is Exactly How You Should Train Yourself To Be Smarter [Infographic]
