@@ -62,6 +62,30 @@ Buffett has cut out nearly all of the bureaucracy in his company. Berkshire Hath
 
 Buffett’s personal life is also very simple. He lives in a modest home (the same one he has been in for 60 years), and he only spends $100,000 per year personally.
 
+![Image of Apparatment](https://miro.medium.com/max/700/0*zEkPo6PwhvNcA7-r)
 
 As we grow in our careers, in our companies, and in our lives, it’s extremely easy to add complexity. In fact, it’s the norm.
 
+As you get more profit, it’s normal to hire more employees. As you earn more money, it’s normal to spend more and more.
+
+> What’s truly powerful and unique is to keep things simple. That takes effort and skill. And, that is part of Buffett’s genius.
+
+It’s odd to say this, but one of the world’s richest people may also be one of its biggest minimalists when you compare the lifestyle he could live to the one he chooses to live.
+
+** Buffett Strategy #4: Focus on a few, high-quality bets**
+
+Warren Buffett only makes a handful of investments per year.
+
+I remember when I first heard this, I was shocked. “How can the wealthiest investor in human history do so few deals?”
+
+William Thorndike gives us the answer to this question in his book, The Outsiders:
+
+_“Buffett believes that exceptional returns come from concentrated portfolios, that excellent investment ideas are rare, and he has repeatedly told students that their investing results would improve if at the beginning of their careers, they were handed a twenty-hole punch card representing the total number of investments they could make in their investing lifetimes. As he summarized in the 1993 annual report, ‘We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an investor thinks about a business and the comfort level he must feel with its economic characteristics before buying into it.”_
+
+Buffett explains his philosophy in the following clip from the Becoming Warren Buffett documentary:
+
+![watch haha](<"https://www.youtube.com/embed/9ANXwkBP9Qo")
+
+In short, Buffett says:
+
+> **“The trick in investing is just to sit there and watch pitch after pitch go by and wait for the one right in your sweet spot. If people are yelling, ‘Swing, you bum,’ ignore them.”**
