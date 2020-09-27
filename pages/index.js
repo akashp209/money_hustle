@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>bluebenzene</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <section className={utilStyles.headingMd}>The Guide For Ultimate Money Hustle</section>
+      <section className={utilStyles.headingMd}>My Research Guide For Ultimate Money Hustle</section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Read Carefully To Grow Your Money💰</h2>
         <ul className={utilStyles.list}>
